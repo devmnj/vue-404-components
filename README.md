@@ -1,4 +1,7 @@
-# vuetmpl
+# 404
+This project provides a set of Vuejs components for creating
+404 | Notfound pages. Some of the concept and animations are adapted from CodePen authors
+
 
 ## Project setup
 ```
@@ -19,6 +22,4 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ 
