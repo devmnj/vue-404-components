@@ -8,6 +8,7 @@
     <f-404 v-else-if="$route.params.id==6" class="" />
     <o-404 v-else-if="$route.params.id==7" class="" />
     <mo-404 v-else-if="$route.params.id==8" class="" />
+    <a-404 v-else-if="$route.params.id>8" class="" />
 
 <!-- {{$route.params.id}}      -->
   </div>

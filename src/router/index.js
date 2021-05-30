@@ -17,6 +17,11 @@ const routes = [
     name:"NotFound",
     component: PNF,
   },
+    {
+    path:"/*",
+    name:"NotFound",
+    component: PNF,
+  },
   {
     path: "/about",
     name: "About",
